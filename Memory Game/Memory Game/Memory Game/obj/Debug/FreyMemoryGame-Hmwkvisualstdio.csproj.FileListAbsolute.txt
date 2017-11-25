@@ -1,0 +1,11 @@
+C:\Users\afrey\Documents\Visual Studio 2015\Projects\Memory Game\Memory Game\bin\Debug\Memory Game.exe.config
+C:\Users\afrey\Desktop\Frey_Portfolio_Public\Memory Game\Memory Game\Memory Game\bin\Debug\Memory Game.exe.config
+C:\Users\afrey\Desktop\Frey_Portfolio_Public\Memory Game\Memory Game\Memory Game\bin\Debug\Memory Game.exe
+C:\Users\afrey\Desktop\Frey_Portfolio_Public\Memory Game\Memory Game\Memory Game\bin\Debug\Memory Game.pdb
+C:\Users\afrey\Desktop\Frey_Portfolio_Public\Memory Game\Memory Game\Memory Game\obj\Debug\FreyMemoryGame-Hmwkvisualstdio.csprojResolveAssemblyReference.cache
+C:\Users\afrey\Desktop\Frey_Portfolio_Public\Memory Game\Memory Game\Memory Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\afrey\Desktop\Frey_Portfolio_Public\Memory Game\Memory Game\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\afrey\Desktop\Frey_Portfolio_Public\Memory Game\Memory Game\Memory Game\obj\Debug\FreyMemoryGame-Hmwkvisualstdio.csproj.GenerateResource.Cache
+C:\Users\afrey\Desktop\Frey_Portfolio_Public\Memory Game\Memory Game\Memory Game\obj\Debug\FreyMemoryGame-Hmwkvisualstdio.csproj.CoreCompileInputs.cache
+C:\Users\afrey\Desktop\Frey_Portfolio_Public\Memory Game\Memory Game\Memory Game\obj\Debug\Memory Game.exe
+C:\Users\afrey\Desktop\Frey_Portfolio_Public\Memory Game\Memory Game\Memory Game\obj\Debug\Memory Game.pdb
