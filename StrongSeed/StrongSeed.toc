@@ -1,7 +1,0 @@
-## Interface: 70300
-## Title: |cff00ccffStrong Seed|r
-## Author: FreyAlecJ
-## DefaultState: Enabled
-## SavedVariables = StrongSeedDB
-
-StrongSeed.lua
